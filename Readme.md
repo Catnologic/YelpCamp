@@ -16,6 +16,15 @@ Install the necessary dependencies
 npm install
 ```
 
+Register with Cloudinary ([Sign Up](https://cloudinary.com/users/register/free)).
+
+Add .env file to the root directory containing your Cloudinary secrets:
+```
+CLOUDINARY_CLOUD_NAME=...
+CLOUDINARY_KEY=...
+CLOUDINARY_SECRET=...
+```
+
 We use nodemon to run the project:
 ```
 npm install nodemon -g
