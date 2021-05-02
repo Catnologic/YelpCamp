@@ -30,19 +30,19 @@ const seedDB = async () => {
             price,
             images: [
                 {
-                  url: 'https://res.cloudinary.com/du5gc4yqu/image/upload/v1619416358/YelpCamp/xmria0s8ivbradjwm8ah.jpg',
+                  url: 'https://res.cloudinary.com/du5gc4yqu/image/upload/v1619991257/gty_camping_kb_140711_16x9_992_dr5vya.jpg',
                   filename: 'YelpCamp/xmria0s8ivbradjwm8ah'
                 },
                 {
-                  url: 'https://res.cloudinary.com/du5gc4yqu/image/upload/v1619416358/YelpCamp/pw3xrujuufnm8nqp9jqm.jpg',
+                  url: 'https://res.cloudinary.com/du5gc4yqu/image/upload/v1619991257/25b4355a-1c3a-4428-b17a-6113a990677b_image2_camp-2_phtr02.jpg',
                   filename: 'YelpCamp/pw3xrujuufnm8nqp9jqm'
                 },
                 {
-                  url: 'https://res.cloudinary.com/du5gc4yqu/image/upload/v1619416358/YelpCamp/i3ypghadkjqjaeojxw6l.jpg',
+                  url: 'https://res.cloudinary.com/du5gc4yqu/image/upload/v1619991258/200925_camping_01_fffed2.jpg',
                   filename: 'YelpCamp/i3ypghadkjqjaeojxw6l'
                 },
                 {
-                  url: 'https://res.cloudinary.com/du5gc4yqu/image/upload/v1619416358/YelpCamp/tsoyfk7hmkgpflhro7xs.jpg',
+                  url: 'https://res.cloudinary.com/du5gc4yqu/image/upload/v1619991257/download_v9iw2l.jpg',
                   filename: 'YelpCamp/tsoyfk7hmkgpflhro7xs'
                 }
               ]
