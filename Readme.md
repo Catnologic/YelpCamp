@@ -25,6 +25,11 @@ CLOUDINARY_KEY=...
 CLOUDINARY_SECRET=...
 ```
 
+If you wish to populate the database with example data, run:
+```
+node seeds/index.js
+```
+
 We use nodemon to run the project:
 ```
 npm install nodemon -g
