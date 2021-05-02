@@ -1,5 +1,9 @@
 # What is YelpCamp?
-(Description of project etc.)
+**YelpCamp** is a web app where users can create, update and rate camping sites for rent.
+
+It uses Node.js and MongoDB for backend, Express.js for rendering the views and Twitter Bootstrap for the UI component styling and positioning.
+
+Cloudinary API is used for image uploads.
 
 # How to Install
 
